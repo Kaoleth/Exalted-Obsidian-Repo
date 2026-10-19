@@ -11,10 +11,14 @@
             "id": "832dfdb68fb3fb6e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Solars/Judicious Sunhawk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Judicious Sunhawk"
             }
           }
         ]
@@ -181,11 +185,16 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "832dfdb68fb3fb6e",
+  "active": "a936c7ac0a2f4bcd",
   "lastOpenFiles": [
+    "Oblivion",
+    "Solars/Nathaniel.md",
+    "Solars/Judicious Sunhawk.md",
+    "README.md",
     "Allies/Lunars.md",
     "Allies/Heart of Wisdom.md",
     "Allies/Truly Free.md",
@@ -196,8 +205,6 @@
     "Places/Compact.md",
     "Allies/Discordant Fragrance of Gloom.md",
     "Allies/Allies.md",
-    "Solars/Judicious Sunhawk.md",
-    "README.md",
     "Solars/Astrid.md",
     "Places/weft-map.png",
     "Untitled.canvas",
@@ -210,7 +217,6 @@
     "Members.md",
     "2026-10-19.md",
     "Solars/Zephyr.md",
-    "Solars/Nathaniel.md",
     "Solars/Chaleth.md"
   ]
 }
