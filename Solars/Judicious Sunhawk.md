@@ -1,1 +1,1 @@
-#Solars #Eclipse This is a Line of Text that is about my character.
+#Solars #Eclipse Judicious Sunhawk has been Judicious Sunhawk in every incarnation since the Usurpation. While each of the other members of the circle inherit their exaltation from their Forbears, Sunhawk exists as a singular, contiguous awareness. Through whatever quirk of Exaltation that was damaged in the Usurpation, his exaltation has maintained a perfect clone of his awareness and personality that is brought with it through every incarnation.
